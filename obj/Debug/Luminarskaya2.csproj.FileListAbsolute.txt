@@ -1,0 +1,10 @@
+C:\Users\berte\source\repos\Luminarskaya2\bin\Debug\Luminarskaya2.exe.config
+C:\Users\berte\source\repos\Luminarskaya2\bin\Debug\Luminarskaya2.exe
+C:\Users\berte\source\repos\Luminarskaya2\bin\Debug\Luminarskaya2.pdb
+C:\Users\berte\source\repos\Luminarskaya2\obj\Debug\Luminarskaya2.csprojAssemblyReference.cache
+C:\Users\berte\source\repos\Luminarskaya2\obj\Debug\Luminarskaya2.signin.resources
+C:\Users\berte\source\repos\Luminarskaya2\obj\Debug\Luminarskaya2.Properties.Resources.resources
+C:\Users\berte\source\repos\Luminarskaya2\obj\Debug\Luminarskaya2.csproj.GenerateResource.cache
+C:\Users\berte\source\repos\Luminarskaya2\obj\Debug\Luminarskaya2.csproj.CoreCompileInputs.cache
+C:\Users\berte\source\repos\Luminarskaya2\obj\Debug\Luminarskaya2.exe
+C:\Users\berte\source\repos\Luminarskaya2\obj\Debug\Luminarskaya2.pdb
